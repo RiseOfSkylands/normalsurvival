@@ -1,0 +1,88 @@
+glow-stone-dust:
+  short-format: "<#ffffff>• <#656b96>1 glow stone to 4 glow stone dust"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465946619052244/glowstone_dust01.png?ex=674ee417&is=674d9297&hm=ffa962ea10ee22c985d3b80a5052768886362b63aad9758533e3ff0c31ff5f5e&=&format=webp&quality=lossless"
+string:
+  short-format: "<#ffffff>• <#656b96>1 wool to 4 string"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465878600286279/string.png?ex=674f8cc7&is=674e3b47&hm=39c5adb74660a329a890221a0f959f4dbef9d78222b77141020440b9b987098b&=&format=webp&quality=lossless"
+tall-grass:
+  short-format: "<#ffffff>• <#656b96>2 grass to 1 tall grass"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465878864396378/tallgrass.png?ex=674f8cc7&is=674e3b47&hm=afaf06277d48352689ba58fed1ebf324a170c8bb5d6ec53b0d8069dfa80ac433&=&format=webp&quality=lossless"
+cobweb:
+  short-format: "<#ffffff>• <#656b96>5 string to 1 cob web"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465879082369065/cobweb.png?ex=674f8cc7&is=674e3b47&hm=8f768878bdea3b67584fbcd34036700d58c7384bc0b3bfe746d1634d94f3d34d&=&format=webp&quality=lossless"
+saddle:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465879602729041/saddle.png?ex=674f8cc7&is=674e3b47&hm=b1d9316660cfd384150bd28cd8b7c807b2aeb0e1b655ac57c7f4945d0f062fcc&=&format=webp&quality=lossless"
+rooted-dirt:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465879824760943/rooted_dirt.png?ex=674f8cc7&is=674e3b47&hm=23fbaef2909b242036491fb730b72f34b7c787eba27eb235cf8c4370244a0d81&=&format=webp&quality=lossless"
+quartz:
+  short-format: "<#ffffff>• 1 quartz block to 4 quartz<#656b96>"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465945470079127/quartz.png?ex=674f8cd7&is=674e3b57&hm=11bf820b2cdc8299879c1041accda5fff0c268d8d51459d75abe8f5facead67b&=&format=webp&quality=lossless"
+large -fern:
+  short-format: "<#ffffff>• 2 fern to 1 large fern<#656b96>"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465945784516670/large_fern.png?ex=674f8cd7&is=674e3b57&hm=20c8fd530839eb92e16a57247b515c18079a89e63f429f2277855d8f95bcd50f&=&format=webp&quality=lossless"
+water-bucket:
+  short-format: "<#ffffff>• ice to water<#656b96>"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465946074058802/water_bucket.png?ex=674f8cd7&is=674e3b57&hm=49838ddded5f34ce3aa988f48b7133f6df6026085ec0cfcc07b48e62ad61b8f5&=&format=webp&quality=lossless"
+grindstone:
+  short-format: "<#ffffff>• alternate recipe using all stone slab types<#656b96>"
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465946338295838/grindstone.png?ex=674f8cd7&is=674e3b57&hm=1c045e6d2fab039eae0dbee78a19732ca927649fdbdb3b1921dd5e04123a0932&=&format=webp&quality=lossless"
+cobbled-deepslate:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1313358268256489542/cobbled_deepslate02.png?ex=674fd7b4&is=674e8634&hm=aaad42baa06ae35a087938fb6dbd35ab87808f5c9d00d182b4259986f1d2ab8d&=&format=webp&quality=lossless"
+cobblestone:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1313358268608806944/cobblestone02.png?ex=674fd7b4&is=674e8634&hm=a1bc59d944682f36c871da4d8558df3e7b234ad8fd368deeff420f8224c62513&=&format=webp&quality=lossless"
+mushroom-stem-block:
+  short-format: "<#ffffff>• this can use any and all mushroom types to craft this item<#656b96>"
+  long-format: ""
+  image: "https://cdn.discordapp.com/attachments/1306739122198806580/1311465947084886026/mushroom_stem02.png?ex=674f8cd7&is=674e3b57&hm=be37c964ca15e313839706fb0ec0654b9d4ade7480a97b7d26bc385678ff0d20&"
+amethyst-shard:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465947680473150/amethyst_shards.png?ex=674f8cd7&is=674e3b57&hm=bbd4dbfcbfc0e9bf711e2e27ab3f8570dc1885d2ab84819cf53bc9bddca7f61a&=&format=webp&quality=lossless"
+gold-block:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465877832732792/gold_block01.png?ex=674f8cc7&is=674e3b47&hm=5fcb796ffe097d9f56c32276249d398f5f1ca9f17fe136e07de850fade6fde36&=&format=webp&quality=lossless"
+copper-block:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465877610303588/copper_block01.png?ex=674f8cc7&is=674e3b47&hm=84a1fcf23a0683641f19664017c5f351f84556060394e3d63669a766951a227c&=&format=webp&quality=lossless"
+iron-block:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1311465878075998208/iron_block01.png?ex=674f8cc7&is=674e3b47&hm=14ebbe9ff3aa97e64637c483c5dd714879db44cfc9d7b3d9ed620611d3ef8665&=&format=webp&quality=lossless"
+charcoal-from-bamboo:
+  short-format: ""
+  long-format: ""
+  image: "https://cdn.discordapp.com/attachments/1306739122198806580/1311465878390440006/charcoal01.png?ex=674f8cc7&is=674e3b47&hm=0ca88bb44de9a608181ea746726d83a4a3581469a42437cf71bf0bd567d4cbf0&=&format=webp&quality=lossless"
+bone-block-01:
+  short-format: ""
+  long-format: ""
+  image: "https://cdn.discordapp.com/attachments/1306739122198806580/1313358269644931122/bone_block01.png?ex=674fd7b4&is=674e8634&hm=57f35e9667c4ef2fa0dd687083610068ed8e34cba31dc7e05e8d6d08c190f964&=&format=webp&quality=lossless"
+bone-block-02:
+  short-format: ""
+  long-format: ""
+  image: "https://cdn.discordapp.com/attachments/1306739122198806580/1313358269414379630/bone_block02.png?ex=674fd7b4&is=674e8634&hm=39a1706f7670d260ac8acbd0fdbe0e6465e924b564514fd3361f23e88ff75a1b&=&format=webp&quality=lossless"
+bone-block-03:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1313358269070315530/bone_block03.png?ex=674fd7b4&is=674e8634&hm=bbaa15dedef6d1ca74b7a79302fa8f8cc2269a289dc7bfd0bbdc14f3a349ad52&=&format=webp&quality=lossless"
+nether-wart:
+  short-format: ""
+  long-format: ""
+  image: "https://media.discordapp.net/attachments/1306739122198806580/1313358268827177080/nether_wart01.png?ex=674fd7b4&is=674e8634&hm=4f424881a177900a499ec32d6376353fac23c78997954030a26a7074cf44cf6b&=&format=webp&quality=lossless"
